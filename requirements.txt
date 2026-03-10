@@ -1,0 +1,12 @@
+streamlit
+torch
+torchvision
+albumentations
+opencv-python-headless
+scikit-learn
+pytest
+Pillow
+tqdm
+numpy<2
+huggingface-hub
+rembg[cpu]
